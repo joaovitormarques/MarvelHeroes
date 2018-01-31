@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/joaovitor/AndroidStudioProjects/Marvel/app/build/intermediates/incremental-runtime-classes/dev/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/joaovitor/AndroidStudioProjects/Marvel/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10000/instant-run_d5f0b7b96aa2633614ed96004173d6848dad7a2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joaovitor/.android/build-cache/1f47e589afadacfaedb3e256ad2dd46b52334b72/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/joaovitor/AndroidStudioProjects/Marvel/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_b17357414cb8a685435b4b975e24a5810e579fda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joaovitor/.android/build-cache/cce80026ff803517ee048dfd6cb182db84199642/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
+        <dex dex="/home/joaovitor/AndroidStudioProjects/Marvel/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_706bca9b8b041e8a58cb56f2fb947fc8fe05e5cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joaovitor/.android/build-cache/f74c857e5978fb0f944a1328c078862c15c52e08/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/joaovitor/AndroidStudioProjects/Marvel/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_9572f5c0aa775dfcaac47c3c269987fd4b0f507f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joaovitor/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/home/joaovitor/AndroidStudioProjects/Marvel/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/butterknife-7.0.1_980f882a245dc2be0d1460ab589f874b7f6a691b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joaovitor/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/home/joaovitor/AndroidStudioProjects/Marvel/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/converter-gson-2.1.0_de05d8abda36318aa39ec42048843e3ffd4088ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joaovitor/.android/build-cache/52e7db483e940b2230e72d294d5c5bb48a17d664/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/joaovitor/AndroidStudioProjects/Marvel/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_57504820b17622cdb1ce9261692c0b2c4e18dbea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joaovitor/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/home/joaovitor/AndroidStudioProjects/Marvel/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/rxjava-1.1.6_b4bee27323a3aad468ebb861fea3697ccc1959ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joaovitor/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/home/joaovitor/AndroidStudioProjects/Marvel/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/retrofit-2.1.0_b06354e29edf214693f09769f6acc3692cd51910/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joaovitor/.android/build-cache/8bf0331ba830d6e601abab122aed471c551dcfad/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/joaovitor/AndroidStudioProjects/Marvel/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_57e685d3c4b7350647fd813921b352af35c99664/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joaovitor/.android/build-cache/b1385b79fff9f3734d2c73db593392376a1896b0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/joaovitor/AndroidStudioProjects/Marvel/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_840ace2974f9b6c4da7eed471d4fbf42d89f59e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joaovitor/.gradle/caches/modules-2/files-2.1/com.annimon/stream/1.1.6/b708c54d13f0e223803f0d04410cd2684031bb79/stream-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b708c54d13f0e223803f0d04410cd2684031bb79">
+        <dex dex="/home/joaovitor/AndroidStudioProjects/Marvel/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/stream-1.1.6_e12a22ae5d25d96ef88b19b4abd9f8294aa7908f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joaovitor/AndroidStudioProjects/Marvel/app/build/intermediates/incremental-classes/dev/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fa2ba1bbd971efeb97c4446ce97a904c17635522">
+        <dex dex="/home/joaovitor/AndroidStudioProjects/Marvel/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10000/instant-run-bootstrap_5264a10e785f4e0ab41a82d5723096553baf183f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joaovitor/.android/build-cache/a0dad2b4f61e112222cfa6bb84cb76c1df2aea83/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/joaovitor/AndroidStudioProjects/Marvel/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_5008eee178834af807eca050607c77028b7e3374/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joaovitor/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/joaovitor/AndroidStudioProjects/Marvel/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/okio-1.13.0_a2e0eee72049e5386b7c42ef38e3742261b6e8d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joaovitor/.android/build-cache/a2bfaee6eee0606ce4efad4a088d2b058c6a63b0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/joaovitor/AndroidStudioProjects/Marvel/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_cc8eefc3756e2aba3aec4f325b07dbdea9b9314e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joaovitor/.android/build-cache/87eed7b22cffdd0736f96509c68dd219852fdf7b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/joaovitor/AndroidStudioProjects/Marvel/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_1f7ab51b32cbc865ada9112cd611bd0fef9d3684/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joaovitor/.android/build-cache/71ad9921b623348a99801800f3298bf317cd49eb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/joaovitor/AndroidStudioProjects/Marvel/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_ac63e677791307c83d66e32dba34f256622e159c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joaovitor/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.8.0/f765f004f3e201bd6ad0904266e605d7fb776d5/logging-interceptor-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0f765f004f3e201bd6ad0904266e605d7fb776d5">
+        <dex dex="/home/joaovitor/AndroidStudioProjects/Marvel/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/logging-interceptor-3.8.0_a635e74bc1506f79075fde25cb212450a5d529d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joaovitor/.android/build-cache/8548c98f1a5a830109060a408b1e23ed83e1bede/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/home/joaovitor/AndroidStudioProjects/Marvel/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_cda1b21ada64902d3bacbffa7cc0297d816256c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joaovitor/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/joaovitor/AndroidStudioProjects/Marvel/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/gson-2.7_731c731e4245e86ea841c7559c2a288e358c852d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joaovitor/.android/build-cache/8b7fcffef79bd6671fb627f729e4090f5602bac7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/home/joaovitor/AndroidStudioProjects/Marvel/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_ec8a99e0bdbd5df18f95580a6e105310234e85c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joaovitor/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/joaovitor/AndroidStudioProjects/Marvel/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/support-annotations-26.0.0-alpha1_82edca14701aa69d7f07c99c00760869b033604c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joaovitor/.android/build-cache/e053e992bb360886ee7921f47901f9acd19b4b58/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cea3c0edbda1279bc261187fb3b6f874bfc841f4">
+        <dex dex="/home/joaovitor/AndroidStudioProjects/Marvel/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_99146c9a3ebb3b1e0bcde532380fb1313ffb9942/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joaovitor/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/home/joaovitor/AndroidStudioProjects/Marvel/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/okhttp-3.8.0_7027a371b8b1892ef06054afd1301e93c9d7f09f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joaovitor/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/home/joaovitor/AndroidStudioProjects/Marvel/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/adapter-rxjava-2.1.0_c651d60ee1cc820fc0155c9ed833aed22c466ed8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joaovitor/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/joaovitor/AndroidStudioProjects/Marvel/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/picasso-2.5.2_38ef2a08702206f38257aa369f1e5cc09ffd1d2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joaovitor/.android/build-cache/5aa6840c349c685e49300c077cfea32228054afe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/joaovitor/AndroidStudioProjects/Marvel/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_e203ffa491b1f97b152e20269f7cef48ae28ff9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joaovitor/.android/build-cache/505ba7f63fc7b49bf89eb9da2814deff53425b2c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/joaovitor/AndroidStudioProjects/Marvel/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_569191ab84dac8e0d98a77016723b939ec0077c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joaovitor/.android/build-cache/3e268257fc70a0cdb5aa51ac73452f9c45d7257a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/joaovitor/AndroidStudioProjects/Marvel/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_51d1adf9711f06cc6a28318ca4ed7d28ebd80716/classes.dex" />
+    </item>
+
+</items>
